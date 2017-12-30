@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-6.0.dtd">
+<!-- eric project file for project pong -->
+<!-- Saved: 2017-12-30, 12:30:54 -->
+<!-- Copyright (C) 2017 ,  -->
+<Project version="6.0">
+  <Language></Language>
+  <Hash>e1c6e1967508c60e6aff0ddd61aa0948b507b83e</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>__init__.py</Source>
+    <Source>login.py</Source>
+    <Source>pong.kv</Source>
+    <Source>pong1.py</Source>
+    <Source>testkyvi.py</Source>
+  </Sources>
+  <Others>
+    <Other>pong.kv</Other>
+  </Others>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.proto" type="PROTOCOLS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>
